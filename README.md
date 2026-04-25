@@ -37,11 +37,11 @@ This project focuses on implementing structured business logic using Object-Orie
 
 ---
 
-⚙️ How to Run
-# Compile
+## ⚙️ How to Run
+## Compile
 > javac Main.java
 
-# Run
+## Run
 > java Main
 
 ---
