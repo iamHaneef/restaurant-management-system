@@ -1,8 +1,52 @@
 # Restaurant Management System
 
-A professional, organized Java repository for a restaurant management system.
+## 📌 Overview
 
-## Project Structure
+A Java-based backend system designed to manage restaurant operations including menu handling, table reservations, order processing, billing, and payment flow.
+
+This project focuses on implementing structured business logic using Object-Oriented Programming principles.
+
+---
+
+## ⚡ Features
+
+- Menu management (item selection and pricing)
+- Table reservation and availability tracking
+- Order creation and status tracking
+- Billing system with total calculation
+- Payment processing and order completion
+
+---
+
+## 🧠 System Flow
+
+- Customer selects menu items
+- Order is created and stored
+- Table is assigned or reserved
+- System calculates total bill
+- Payment is processed
+- Order is finalized and recorded
+
+---
+
+## 🛠️ Tech Stack
+
+- Java (Standard Edition)
+- Object-Oriented Programming (OOP)
+- Java Collections Framework
+
+---
+
+⚙️ How to Run
+# Compile
+> javac Main.java
+
+# Run
+> java Main
+
+---
+
+## 📂 Project Structure
 
 ```text
 restaurant-management-system/
@@ -18,21 +62,3 @@ restaurant-management-system/
 │
 ├── Main.java               # Application entry point and interactive CLI
 └── README.md               # Project documentation
-```
-
-## Features
-
-- **Menu Management**: Selection and pricing for various meal items.
-- **Order Tracking**: Status updates for preparation and serving.
-- **Table Reservation**: Dynamic table booking and release system.
-- **Billing System**: Flexible payment options and balance calculation.
-
-## Getting Started
-
-1. Compile the project: `javac Main.java`
-2. Run the application: `java Main`
-
-## Technologies Used
-
-- Java (Standard Edition)
-- Java Collections Framework
